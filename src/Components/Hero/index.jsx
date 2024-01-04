@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
-import Lottie from 'lottie-react'
-import animation from "../../assets/Animation - 1704341100035.json"
+// import Lottie from 'lottie-react'
+// import animation from "../../assets/Animation - 1704341100035.json"
 const ShuffleHero = () => {
   return (
     <section className="w-full  py-12 flex justify-center flex-col md:flex-row  items-center gap-8  mx-auto bg-[#FFEEDA]">
@@ -18,7 +18,7 @@ const ShuffleHero = () => {
         <button className="bg-[#075E56] text-[#FFEEDA] font-medium py-2 px-4 rounded transition-all hover:bg-indigo-600 active:scale-95">
           Find a Center
         </button>
-        <Lottie className='w-[200px] absolute lg:top-[500px] lg:left-[290px] hidden lg:block' animationData={animation}/>
+        {/* <Lottie className='w-[200px] absolute lg:top-[500px] lg:left-[290px] hidden lg:block' animationData={animation}/> */}
       </div>
       <ShuffleGrid />
     </section>
