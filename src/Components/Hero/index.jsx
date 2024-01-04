@@ -5,13 +5,13 @@ const ShuffleHero = () => {
   return (
     <section className="w-full  py-12 flex justify-center flex-col md:flex-row  items-center gap-8  mx-auto bg-[#FFEEDA]">
       <div className="ms-5">
-        <h3 className=" mb-4 text-4xl md:text-6xl font-semibold">
+        <h3 className=" mb-4 text-4xl md:text-6xl font-semibold font-[Bitter]">
         Your child 
         </h3>
-        <h3 className="text-4xl  md:text-6xl font-semibold">
+        <h3 className="text-4xl  md:text-6xl font-semibold font-[Bitter ]">
         will thrive here!
         </h3>
-        <p className="text-base md:text-lg text-slate-700 my-4 md:my-6">
+        <p className="text-base md:text-lg text-slate-700 my-4 md:my-6 font-[Rokkitt]">
         Give them a strong start for the learning journey ahead.
         </p>
         <button className="bg-[#075E56] text-[#FFEEDA] font-medium py-2 px-4 rounded transition-all hover:bg-indigo-600 active:scale-95">
