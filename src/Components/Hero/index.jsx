@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
-
+import Lottie from 'lottie-react'
+import animation from "../../assets/Animation - 1704341100035.json"
 const ShuffleHero = () => {
   return (
     <section className="w-full  py-12 flex justify-center flex-col md:flex-row  items-center gap-8  mx-auto bg-[#FFEEDA]">
@@ -8,7 +9,7 @@ const ShuffleHero = () => {
         <h3 className=" mb-4 text-4xl md:text-6xl font-semibold font-[Bitter]">
         Your child 
         </h3>
-        <h3 className="text-4xl  md:text-6xl font-semibold font-[Bitter ]">
+        <h3 className="text-4xl  md:text-6xl font-semibold font-[Bitter]">
         will thrive here!
         </h3>
         <p className="text-base md:text-lg text-slate-700 my-4 md:my-6 font-[Rokkitt]">
@@ -17,6 +18,7 @@ const ShuffleHero = () => {
         <button className="bg-[#075E56] text-[#FFEEDA] font-medium py-2 px-4 rounded transition-all hover:bg-indigo-600 active:scale-95">
           Find a Center
         </button>
+        <Lottie className='w-[200px] absolute lg:top-[500px] lg:left-[290px] hidden lg:block' animationData={animation}/>
       </div>
       <ShuffleGrid />
     </section>

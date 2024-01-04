@@ -2,7 +2,7 @@ import React from 'react'
 
 function Modern() {
   return (
-    <div className='bg-[#FFF5EB]'>
+    <div className='bg-[#FFF5EB] relative'>
         <h1 className='lg:text-4xl text-2xl font-semibold lg:w-[450px] mx-auto  text-center pt-10 font-[Bitter]'>About Us</h1>
 
 <div className='flex flex-col lg:flex-row  justify-center items-center  mt-20 lg:mt-[100px] gap-14 pb-20 lg:pb-24'>
