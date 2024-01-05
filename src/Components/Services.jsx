@@ -13,7 +13,7 @@ function Services() {
             <h1 className='lg:text-4xl text-2xl font-semibold lg:w-[350px] font-[Bitter]'>Little Hearts Childcare Services</h1>
             <p className='text-[#808083] lg:w-[450px] text-justify font-[Rokkitt]'>We strive to establish self-confidence, responsibility, and good moral character in every student. Dublin Learning Academy’s curriculum combines intellectual curiosity and traditional learning methods to help lay the foundation for a successful educational career. Every child will thrive in our atmosphere filled with exploration and learning tailored for each age group. Our Dublin, OH childcare center provides compassionate childcare services and programs for infants ages six weeks to children up to 12 years old.</p>
             <div >
-                <button className='bg-[#075E56] text-[#FFEEDA] py-2 px-5 rounded '>See More</button>
+                <button className='bg-[#075E56] text-[#FFEEDA] py-2 px-5 rounded hover:bg-transparent hover:boder-[#075E56] border-[1px] border-[#075E56] hover:text-[#075E56]'>See More</button>
             </div>
             <Lottie className='w-[200px] absolute lg:top-20 lg:right-0 hidden lg:block -top-28 -right-6' animationData={ani}/>
 
