@@ -57,47 +57,47 @@ const FaqsCard = (props) => {
 const FAQSection = () => {
     const faqsList = [
         {
-            q: "How does online tutoring work?",
-            a: "Online tutoring typically involves one-on-one, or group sessions conducted over the internet. Tutors and students communicate through video conferencing, chat, and shared resources."
+            q: "What age groups does the childcare center cater to?",
+            a: "Our childcare center provides care and educational services for children across various age groups, from infants to pre-school and beyond."
         },
         {
-            q: "What subjects and grade levels do you offer tutoring for?",
-            a: "We offer tutoring services across a wide range of subjects for Secondary level (Grade 9 and 10) and Senior Secondary level (Grade 11 and 12), including math, science, languages and more. Our tutors are qualified to assist students from Secondary to college levels."
+            q: "What are the operating hours of the childcare center?",
+            a: "We understand the diverse needs of parents, and our center offers flexible operating hours to accommodate various schedules, including early morning drop-offs and late pickups."
         },
         {
-            q: "How are tutors selected and what are their qualifications?",
-            a: "Our tutors undergo a rigorous selection process. They are experienced professionals or subject matter experts with relevant academic backgrounds. We ensure that they have the necessary qualifications and expertise to provide effective tutoring."
+            q: "How are the caregivers and teachers qualified and trained?",
+            a: "Our caregivers and teachers are highly qualified and undergo continuous training in early childhood education. We prioritize creating a nurturing environment for your child's development."
         },
         {
-            q: "What technology do I need for online tutoring?",
-            a: "You will need a stable internet connection, a computer or tablet, and a webcam. We use user-friendly platforms for virtual sessions."
+            q: "What safety measures are in place to ensure the well-being of the children?",
+            a: "We take safety seriously. Our childcare center adheres to strict safety protocols, including secure entry systems, regular safety drills, and background checks for all staff members."
         },
         {
-            q: "How do I schedule tutoring sessions?",
-            a: "You can schedule tutoring sessions through our online platform. We provide a scheduling system that allows you to choose available time slots that suit your schedule."
+            q: "What activities and learning programs are offered to the children?",
+            a: "Our childcare programs are designed to stimulate the intellectual, emotional, and physical development of each child. We offer a diverse range of activities, including age-appropriate learning, arts and crafts, and outdoor play."
         }
     ];
 
     const faqsLists = [
         {
-            q: "Is there a trial session available?",
-            a: "Yes, we offer trial sessions for new students. This allows you to experience our tutoring services firsthand and decide if it's the right fit for you before committing to a package."
+            q: "Is there a trial period available for new families?",
+            a: "Yes, we offer trial periods for new families to allow you and your child to experience our childcare environment. It's a great way to ensure that our center is the right fit for your family."
         },
         {
-            q: "How do you ensure the safety and security of online sessions?",
-            a: "We prioritize the safety and security of our users. Our platform uses encryption to protect communication, and tutors undergo background checks. Additionally, some sessions are recorded for quality assurance and monitoring purposes."
+            q: "How do you handle children with allergies or special dietary needs?",
+            a: "We take allergies and dietary needs seriously. Our staff is trained to accommodate various dietary requirements, and we work closely with parents to ensure the safety and well-being of every child."
         },
         {
-            q: "What if I need to reschedule or cancel a session?",
-            a: "You can reschedule or cancel a session within a specified timeframe through our platform. We understand that unforeseen circumstances may arise, and we aim to be flexible while maintaining a fair policy."
+            q: "What security measures are in place within the facility?",
+            a: "We prioritize the security of our facility. Our premises are equipped with surveillance cameras, secure entry systems, and a dedicated staff trained to monitor and ensure the safety of all children."
         },
         {
-            q: "How do you track student progress?",
-            a: "We track student progress through regular assessments, feedback from tutors, and, if applicable, collaboration with classroom teachers. Our goal is to tailor tutoring sessions to meet the individual learning needs of each student."
+            q: "How can parents stay informed about their child's activities and progress?",
+            a: "We maintain open communication with parents through regular updates, newsletters, and scheduled parent-teacher meetings. Our goal is to keep you informed about your child's activities, development, and achievements."
         },
         {
-            q: "What is the pricing structure for tutoring services?",
-            a: "Our pricing structure varies based on the course, subject, level, and package selected. We offer different plans to accommodate various needs and budgets. You can find detailed pricing information by contacting our support team."
+            q: "What is the enrollment process, and are there any specific documents required?",
+            a: "Our enrollment process is straightforward. To get started, contact our enrollment team, and they will guide you through the necessary paperwork and provide you with all the information you need to enroll your child in our childcare center."
         }
 
     ];
