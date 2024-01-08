@@ -5,10 +5,10 @@ import { FaInstagram } from "react-icons/fa6";
 import { FaXTwitter } from "react-icons/fa6";
 import { TiChevronRightOutline } from "react-icons/ti";
 import { FaLinkedin } from "react-icons/fa";
-import svg from "../../assets/svg.svg"
+import svg1 from "../../assets/bg.png"
 function Footer() {
   return (
-    <footer className='bg-[#FFEEDA] lg:pt-40 pb-10 pt-10' style={{backgroundImage: `url(${svg})`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
+    <footer className='bg-[#FFEEDA] lg:pt-40 pb-10 pt-10' style={{backgroundImage: `url(${svg1})`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
 <div className='flex justify-around lg:flex-row flex-col ps-5 gap-6 lg:gap-0 lg:ps-0 '>
     <div>
         <img className='w-[170px]' src={logo} alt="" />
