@@ -48,7 +48,7 @@ function Footer() {
 </div>
 <hr className='border-[#7A412E] mt-4'/>
 <div>
-    <h1 className='mb-6 text-xl lg:text-2xl text-center mt-4 font-semibold text-black  uppercase'>Locations</h1>
+    <h1 className='mb-6 text-xl lg:text-2xl lg:text-center mt-4 font-semibold text-black lg:ps-0 ps-3 uppercase'>Locations</h1>
     <div className='flex flex-col lg:flex-row justify-evenly gap-4 ps-3 lg:ps-0'>
         <div className='text-[18px] font-medium text-gray-500 '>
         <h1 className='mb-6 text-lg font-bold text-green-950'>Little Hearts Learning Center I</h1>
