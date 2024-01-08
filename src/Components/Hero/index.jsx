@@ -12,7 +12,7 @@ const ShuffleHero = () => {
         Lead to Big Dreams 
         </h3>
         <p className="text-base md:text-lg text-slate-700 my-4 md:my-6 font-[Rokkitt]">
-        Give them a strong start for the learning journey ahead.
+          Give your child a strong start for the learning journey ahead with our quality childcare services. Where little steps lead to big dreams.
         </p>
         <button className="bg-[#075E56] text-[#FFEEDA] font-medium py-2 px-4 rounded transition-all hover:bg-transparent hover:boder-[#075E56] border-[1px] border-[#075E56] hover:text-[#075E56] active:scale-95">
           Find a Center
