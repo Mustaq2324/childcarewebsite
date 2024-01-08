@@ -19,8 +19,8 @@ function Home() {
     <Hero/>
     {/* <Foards/> */}
     <Services/>
-    <Modern/>
     <Age/>
+    <Modern/>
     <Latest/>
     <Support/>
     <FAQSection/>

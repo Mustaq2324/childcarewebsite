@@ -1,9 +1,13 @@
 import React from 'react'
 import bg from "../assets/cubes-01.png"
+import Kite from "../assets/kite-01.png"
 function Modern() {
   return (
-    <div className='bg-[#FFF5EB] relative'>
-        <h1 className='lg:text-4xl text-2xl font-semibold lg:w-[450px] mx-auto  text-center pt-10 font-[Bitter]'>About Us</h1>
+    <div className='bg-[#FFF5EB] overflow-x-hidden'>
+    <div className='relative'>
+    <h1 className='lg:text-5xl text-2xl font-semibold lg:w-[450px] mx-auto  text-center pt-10 font-[Bitter]'>About Us</h1>
+    <img className='w-[200px] absolute md:top-0 md:right-[28%] top-0 right-0 lg:right-[35%] lg:top-2' src={Kite} alt="" />
+    </div>
 
 <div className='flex flex-col lg:flex-row  justify-center items-center  mt-20 lg:mt-[100px] gap-14 pb-20 lg:pb-24'>
     <div className='bg-[#E8E6FE] relative w-[290px] lg:w-[320px]  h-[320px] rounded flex flex-col justify-center p-2 ps-3 gap-4'>
