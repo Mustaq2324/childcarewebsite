@@ -6,6 +6,9 @@ import Modern from '../Components/Modern'
 import Latest from '../Components/Latest'
 import FAQSection from '../Components/Faq'
 import Support from '../Components/Support'
+import Footer from '../Components/Footer/Footer'
+import Age from '../Components/Age group/Age'
+// import Cards from '../Components/Card'
 
 
 
@@ -14,12 +17,14 @@ function Home() {
     <>
     <Navbar/>
     <Hero/>
+    {/* <Foards/> */}
     <Services/>
     <Modern/>
+    <Age/>
     <Latest/>
     <Support/>
     <FAQSection/>
-
+<Footer/>
     </>
   )
 }

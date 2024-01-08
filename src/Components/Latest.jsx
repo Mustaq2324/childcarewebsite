@@ -54,7 +54,7 @@ const Latest = () => {
     slidesToShow: 3,
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 500, // Adjusted autoplay speed for better responsiveness
+    autoplaySpeed: 2000, // Adjusted autoplay speed for better responsiveness
     responsive: [
       {
         breakpoint: 1024,

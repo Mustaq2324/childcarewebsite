@@ -103,7 +103,7 @@ const FAQSection = () => {
     ];
 
     return (
-        <section className="leading-relaxed bg-[#FFF5EB]  pt-12 mx-auto px-4 md:px-8 lg:mb-12">
+        <section className="leading-relaxed bg-[#FFF5EB]  pt-12 mx-auto px-4 md:px-8 ">
             <div className="space-y-3 text-center">
                 <h1 className="text-3xl text-gray-800 font-semibold font-[bitter]">
                     Frequently Asked Questions

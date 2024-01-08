@@ -58,7 +58,7 @@ function Navbar() {
 
         <div className="lg:block hidden">
        
-          <button className="bg-[#075E56] hover:bg-transparent hover:boder-[#075E56] border-[1px] border-[#075E56] hover:text-[#075E56] text-[#FFEEDA] px-4 py-2 rounded  font-semibold hover:bg-blacktransition-all duration-500 " >Schedule a Tour</button>
+          <button className="bg-[#7A412E] hover:bg-transparent hover:boder-[#075E56] border-[1px] border-[#7A412E] hover:text-[#7A412E] text-[#FFEEDA] px-4 py-2 rounded  font-semibold hover:bg-blacktransition-all duration-500 " >Schedule a Tour</button>
        
         </div>
 
