@@ -115,10 +115,10 @@ const FAQSection = () => {
             q: "How often are the facilities cleaned?",
             a: "We clean and sanitize the facilities daily to ensure a clean environment."
         },
-        {
-            q: "Can I pack a lunch for my child?",
-            a: "Certainly! You can pack a lunch, and we'll make sure it's stored and served appropriately."
-        },
+        // {
+        //     q: "Can I pack a lunch for my child?",
+        //     a: "Certainly! You can pack a lunch, and we'll make sure it's stored and served appropriately."
+        // },
         // {
         //     q: "What security measures are in place within the facility?",
         //     a: "We prioritize the security of our facility. Our premises are equipped with surveillance cameras, secure entry systems, and a dedicated staff trained to monitor and ensure the safety of all children."
