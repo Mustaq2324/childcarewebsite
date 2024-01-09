@@ -11,25 +11,25 @@ function Modern() {
 
 <div className='flex flex-col lg:flex-row  justify-center items-center  mt-20 lg:mt-[100px] gap-14 pb-20 lg:pb-24'>
     <div className='bg-[#E8E6FE] w-[290px] lg:w-[320px]  h-[320px] rounded flex flex-col justify-center p-2 ps-3 gap-4 relative'>
-        <h5 className='font-bold '>Joyful Beginnings: Nurturing Young Minds</h5>
-        <p className='text-gray-900 font-[Rokkitt]'>Our passionate team of caregivers and educators is dedicated to creating a joyful and enriching early childhood experience. With a deep understanding of child development, we foster creativity and curiosity, ensuring that your child's early years are filled with meaningful learning.</p>
+        <h5 className='font-bold '> Crafting Joyful Beginnings for Young Minds</h5>
+        <p className='text-gray-900 font-[Rokkitt]'>Welcome to our world, where our passionate team becomes the architects of joy and enrichment for your child's early years. With profound knowledge in child development, we artfully foster creativity and curiosity. Your child's journey unfolds in an atmosphere dedicated to meaningful learning, shaping a vibrant foundation for the future.</p>
         <div>
             <button className='border-[1px] z-[99] border-[#9a94f9] text-white bg-[#9a94f9] hover:bg-transparent hover:text-[#9a94f9] px-6 py-1 rounded-lg'>See More</button>
         </div>
         <img className='absolute object-cover opacity-30 ' src={bg} alt="" />
     </div>
     <div className='bg-[#AFEBE3] relative w-[290px] lg:w-[320px] h-[320px] rounded flex flex-col justify-center p-2 ps-3 gap-6'>
-        <h5 className='font-bold '>Foundations for Brilliance: Holistic Early Education</h5>
+        <h5 className='font-bold '>Wonders Unveiled: Foundations for Brilliance Explored</h5>
         <p className='text-gray-900 font-[Rokkitt]'>
 
-        Our team is dedicated to laying the foundation for your child's brilliance through a deep understanding of child development. In our nurturing environment, we foster creativity and curiosity, creating a lifelong love for exploration.</p>
+        Meet our super-dedicated squad! We are on a mission to kickstart your kiddos brilliance. Dive into our nurturing zone, where child development secrets are unraveled. We're the creativity and curiosity cheerleaders, crafting a lifelong love for exploration. Get ready for a brilliance-packed adventure with us!</p>
         <div>
             <button className='border-[1px] border-[#075E56] bg-[#075E56] hover:bg-transparent hover:text-[#075E56] text-white px-6 py-1 rounded-lg'>See More</button>
         </div>
         <img className='absolute object-cover opacity-30 ' src={bg} alt="" />
     </div>
     <div className='bg-[#FFDEE9] relative w-[290px] lg:w-[320px] h-[320px] rounded flex flex-col justify-center p-2 ps-3 gap-4'>
-        <h5 className='font-bold '>Tomorrow's Leaders Today: Transformative Early Education</h5>
+        <h5 className='font-bold '>Playground to Boardroom: Tomorrow's Leaders Start Early!</h5>
         <p className='text-gray-900 font-[Rokkitt]'>
         Experience the transformative power of early education with our committed caregivers and educators. Rooted in support and inclusion, we blend joy, laughter, and purposeful learning to spark creativity, fuel curiosity, and sow the seeds of lifelong learning in every child.</p>
         <div>
