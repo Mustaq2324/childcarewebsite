@@ -6,13 +6,13 @@ const ShuffleHero = () => {
     <section className="w-full  py-12 flex justify-center flex-col md:flex-row  items-center gap-8  mx-auto bg-[#FFEEDA]">
       <div className="ms-5">
         <h3 className=" mb-4 text-4xl md:text-6xl font-semibold font-[Bitter]">
-        Where Little Steps 
+        Little Steps 
         </h3>
         <h3 className="text-4xl  md:text-6xl font-semibold font-[Bitter]">
-        Lead to Big Dreams 
+        Big Dreams Today
         </h3>
         <p className="text-base md:text-lg text-slate-700 my-4 md:my-6 font-[Rokkitt]">
-        Give them a strong start for the learning journey ahead.
+        Strength for the Journey Begins
         </p>
         <button className="bg-[#075E56] text-[#FFEEDA] font-medium py-2 px-4 rounded transition-all hover:bg-transparent hover:boder-[#075E56] border-[1px] border-[#075E56] hover:text-[#075E56] active:scale-95">
           Find a Center
