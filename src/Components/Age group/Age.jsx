@@ -20,9 +20,9 @@ function Age() {
             <div className="md:p-8 lg:p-10 ">
                <Lottie className='w-[150px] lg:w-[350px]  mx-auto' animationData={infant}/>
                 <h3 className="mt-12 text-xl uppercase  font-bold text-[#075E56]  lg:text-2xl  ">Infants</h3>
-                <p className="mt-5 text-base text-gray-600 ">Ensuring a safe haven, we nurture your little one's growth. Watch them blossom in our caring and secure environment."
+                {/* <p className="mt-5 text-base text-gray-600 ">Ensuring a safe haven, we nurture your little one's growth. Watch them blossom in our caring and secure environment."
                 
-</p>
+</p> */}
                 <p className="mt-5 text-base text-gray-600 ">Secure. Caring. Growth-driven. Dive into the haven where infants blossom.
                 
 </p>
@@ -31,8 +31,8 @@ function Age() {
             <div className="md:p-8 lg:p-10 md:border-l md:border-[#7A412E]">
             <Lottie className='w-[150px] lg:w-[250px]  mx-auto' animationData={baby}/>
                 <h3 className="mt-12 text-xl font-bold text-[#075E56]  lg:text-2xl uppercase ">Toddlers</h3>
-                <p className="mt-5 text-base text-gray-600 ">Our program is designed to allow children to learn through play and discovery while encouraging individual interests
-</p>
+                {/* <p className="mt-5 text-base text-gray-600 ">Our program is designed to allow children to learn through play and discovery while encouraging individual interests
+</p> */}
                 <p className="mt-5 text-base text-gray-600 ">Adventure awaits! Join our toddler program designed for playful learning and nurturing individual interests.
 </p>
             </div>
@@ -40,8 +40,8 @@ function Age() {
             <Lottie className='w-[150px] lg:w-[250px]  mx-auto' animationData={boy}/>
             <h3 className="mt-12 text-xl font-bold text-[#075E56]  lg:text-2xl ">PRESCHOOL
 </h3>
-                <p className="mt-5 text-base text-gray-600 ">Children learn through play, exploring, investigating, and discovering in nurturing surroundings.
-</p>
+                {/* <p className="mt-5 text-base text-gray-600 ">Children learn through play, exploring, investigating, and discovering in nurturing surroundings.
+</p> */}
                 <p className="mt-5 text-base text-gray-600 "> Embrace the magic of our preschool journey, crafted for joyful learning and cultivating individual curiosity.
 </p>
                
@@ -52,8 +52,8 @@ function Age() {
             <h3 className="mt-12 text-xl font-bold text-[#075E56]  lg:text-2xl ">PRE-KINDERGARTEN</h3>
                 <p className="mt-5 text-base text-gray-600 ">Fueling children's exploration with imagination, energy, and purposeful inquiry, we empower curious minds to thrive.
 </p>
-                <p className="mt-5 text-base text-gray-600 ">Prepare for an adventure! Join pre-kindergarten in fueling young minds with imagination, energy, and purposeful inquiry.
-</p>
+                {/* <p className="mt-5 text-base text-gray-600 ">Prepare for an adventure! Join pre-kindergarten in fueling young minds with imagination, energy, and purposeful inquiry.
+</p> */}
             </div>
         </div>
     </div>
