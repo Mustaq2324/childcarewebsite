@@ -56,49 +56,89 @@ const FaqsCard = (props) => {
 
 const FAQSection = () => {
     const faqsList = [
+        // {
+        //     q: "What age groups does the childcare center cater to?",
+        //     a: "Our childcare center provides care and educational services for children across various age groups, from infants to pre-school and beyond."
+        // },
         {
-            q: "What age groups does the childcare center cater to?",
-            a: "Our childcare center provides care and educational services for children across various age groups, from infants to pre-school and beyond."
+            q: "What is Little Hearts Academy?",
+            a: "Little Hearts Academy is a place where kids come to learn and play."
         },
+        // {
+        //     q: "What are the operating hours of the childcare center?",
+        //     a: "We understand the diverse needs of parents, and our center offers flexible operating hours to accommodate various schedules, including early morning drop-offs and late pickups."
+        // },
         {
-            q: "What are the operating hours of the childcare center?",
-            a: "We understand the diverse needs of parents, and our center offers flexible operating hours to accommodate various schedules, including early morning drop-offs and late pickups."
+            q: "How old should my child be to join?",
+            a: "Children aged 6 weeks to 12 years are welcome at Little Hearts Academy."
         },
+        // {
+        //     q: "How are the caregivers and teachers qualified and trained?",
+        //     a: "Our caregivers and teachers are highly qualified and undergo continuous training in early childhood education. We prioritize creating a nurturing environment for your child's development."
+        // },
         {
-            q: "How are the caregivers and teachers qualified and trained?",
-            a: "Our caregivers and teachers are highly qualified and undergo continuous training in early childhood education. We prioritize creating a nurturing environment for your child's development."
+            q: "Do you have any outdoor play areas?",
+            a: "Yes, we have a safe and supervised outdoor play area for children to enjoy."
         },
+        // {
+        //     q: "What safety measures are in place to ensure the well-being of the children?",
+        //     a: "We take safety seriously. Our childcare center adheres to strict safety protocols, including secure entry systems, regular safety drills, and background checks for all staff members."
+        // },
         {
-            q: "What safety measures are in place to ensure the well-being of the children?",
-            a: "We take safety seriously. Our childcare center adheres to strict safety protocols, including secure entry systems, regular safety drills, and background checks for all staff members."
+            q: "Is there a quiet time or rest time during the day?",
+            a: "Yes, we have a calm period to help kids recharge and relax."
         },
+        // {
+        //     q: "What activities and learning programs are offered to the children?",
+        //     a: "Our childcare programs are designed to stimulate the intellectual, emotional, and physical development of each child. We offer a diverse range of activities, including age-appropriate learning, arts and crafts, and outdoor play."
+        // },
         {
-            q: "What activities and learning programs are offered to the children?",
-            a: "Our childcare programs are designed to stimulate the intellectual, emotional, and physical development of each child. We offer a diverse range of activities, including age-appropriate learning, arts and crafts, and outdoor play."
+            q: "How do you handle emergencies?",
+            a: "We have emergency procedures in place, and staff are trained to respond quickly."
         }
     ];
 
     const faqsLists = [
+        // {
+        //     q: "Is there a trial period available for new families?",
+        //     a: "Yes, we offer trial periods for new families to allow you and your child to experience our childcare environment. It's a great way to ensure that our center is the right fit for your family."
+        // },
         {
-            q: "Is there a trial period available for new families?",
+            q: "Are there any additional fees for special events or field trips?",
             a: "Yes, we offer trial periods for new families to allow you and your child to experience our childcare environment. It's a great way to ensure that our center is the right fit for your family."
         },
         {
-            q: "How do you handle children with allergies or special dietary needs?",
-            a: "We take allergies and dietary needs seriously. Our staff is trained to accommodate various dietary requirements, and we work closely with parents to ensure the safety and well-being of every child."
+            q: "Can parents volunteer in the classroom?",
+            a: "Yes, parents are welcome to volunteer and join classroom activities."
         },
         {
-            q: "What security measures are in place within the facility?",
-            a: "We prioritize the security of our facility. Our premises are equipped with surveillance cameras, secure entry systems, and a dedicated staff trained to monitor and ensure the safety of all children."
+            q: "How often are the facilities cleaned?",
+            a: "We clean and sanitize the facilities daily to ensure a clean environment."
         },
         {
-            q: "How can parents stay informed about their child's activities and progress?",
-            a: "We maintain open communication with parents through regular updates, newsletters, and scheduled parent-teacher meetings. Our goal is to keep you informed about your child's activities, development, and achievements."
+            q: "Can I pack a lunch for my child?",
+            a: "Certainly! You can pack a lunch, and we'll make sure it's stored and served appropriately."
+        },
+        // {
+        //     q: "What security measures are in place within the facility?",
+        //     a: "We prioritize the security of our facility. Our premises are equipped with surveillance cameras, secure entry systems, and a dedicated staff trained to monitor and ensure the safety of all children."
+        // },
+        // {
+        //     q: "How can parents stay informed about their child's activities and progress?",
+        //     a: "We maintain open communication with parents through regular updates, newsletters, and scheduled parent-teacher meetings. Our goal is to keep you informed about your child's activities, development, and achievements."
+        // },
+        {
+            q: "Are there opportunities for parent-teacher conferences?",
+            a: "Yes, we schedule regular conferences to discuss your child's progress and address any concerns."
         },
         {
-            q: "What is the enrollment process, and are there any specific documents required?",
-            a: "Our enrollment process is straightforward. To get started, contact our enrollment team, and they will guide you through the necessary paperwork and provide you with all the information you need to enroll your child in our childcare center."
-        }
+            q: "Do you have a waiting list for enrollment?",
+            a: "Yes, we have a waiting list, and we'll notify you when a spot becomes available."
+        },
+        // {
+        //     q: "What is the enrollment process, and are there any specific documents required?",
+        //     a: "Our enrollment process is straightforward. To get started, contact our enrollment team, and they will guide you through the necessary paperwork and provide you with all the information you need to enroll your child in our childcare center."
+        // }
 
     ];
 
