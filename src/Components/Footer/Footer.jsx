@@ -50,22 +50,22 @@ function Footer() {
             <p>4285 Eastland Square Dr,</p>
             <p>Columbus, OH 43232</p>
             <p>Email: Littlehearts022@gmail.com</p>
-            <p>Ph No: (618) 866-7936</p>
+            <p>Ph No: (614) 866-7936</p>
         </div>
         <div className='text-[18px] font-medium text-gray-500 '>
         <h1 className='mb-6 text-lg font-bold text-green-950'>Little Hearts Learning Center II</h1>
             <p>1859 E.Livingston Ave,</p>
             <p>Columbus, OH 43205</p>
             <p>Email: Ohiochildcareacademy@gmail.com</p>
-            <p>Ph No: (618) 564-9835
+            <p>Ph No: (614) 564-9835
 </p>
         </div>
         <div className='text-[18px] font-medium text-gray-500 '>
         <h1 className='mb-6 text-lg font-bold text-green-950'>Little Hearts Learning Center III</h1>
-            <p>830 Refugee Rd,,</p>
-            <p>Pickerington , OH 43187</p>
+            <p>830 Refugee Rd,</p>
+            <p>Pickerington , OH 43147</p>
             <p>Email: littlehearts.Refugee@gmail.com</p>
-            <p>Ph No: (618) 604-9205</p>
+            <p>Ph No: (614) 604-9205</p>
         </div>
     </div>
     </div>

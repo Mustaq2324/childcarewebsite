@@ -14,8 +14,8 @@ import Age from '../Components/Age group/Age'
 
 function Home() {
   return (
-    <>
-    <Navbar/>
+    <div className='overflow-x-hidden'>
+   
     <Hero/>
     {/* <Foards/> */}
     <Services/>
@@ -24,8 +24,8 @@ function Home() {
     <Latest/>
     <Support/>
     <FAQSection/>
-<Footer/>
-    </>
+
+    </div>
   )
 }
 

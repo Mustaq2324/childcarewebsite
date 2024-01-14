@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { FaBars } from "react-icons/fa";  
 import img from "../../assets/LH_Final Logo.png"
-
+import { Link } from "react-router-dom";
 
 function Navbar() {
   const [drop, setDrop] = useState(false);
@@ -24,16 +24,18 @@ function Navbar() {
     
               
              <div>
+              <Link to="/">
           <img src={img} className="w-[80px] " alt="" />
+          </Link>
                </div>
                <div className="mt-1 lg:flex items-center justify-center hidden pb-2 lg:pb-0 me-8 lg:me-0">
            
            <ul className="flex gap-10 justify-center text-lg items-center ">
            <li className="text-black cursor-pointer font-mono hover:text-[#075E56]">
-           Our Program
+              <Link to="program" >  Our Program</Link>
              </li>
              <li className="text-black cursor-pointer font-mono hover:text-[#075E56]">
-              About Us
+              <Link to="about"> About Us</Link>
              </li>
              <li className="text-black cursor-pointer font-mono hover:text-[#075E56]">
               Enrollment
@@ -76,11 +78,11 @@ function Navbar() {
                
               <ul className="flex flex-col ms-2 justify-center font-[Lato] gap-3 overflow-hidden ">
               <li onClick={handleclick} className="text-black font-mono mt-2 ms-4 cursor-pointer hover:text-[#075E56]">
-               Our Program
+             <Link to="program" >  Our Program</Link>
                 </li>
                
                 <li onClick={handleclick} className="text-black font-mono mt-2 ms-4 cursor-pointer hover:text-[#075E56]">
-                About Us
+                <Link to="about"> About Us</Link>
                 </li>
                 <li onClick={handleclick} className="text-black font-mono mt-2 ms-4 cursor-pointer hover:text-[#075E56]">
                   Enrollment

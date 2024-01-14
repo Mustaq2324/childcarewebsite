@@ -10,7 +10,7 @@ function Modern() {
     </div>
 
 <div className='flex flex-col lg:flex-row  justify-center items-center  mt-20 lg:mt-[100px] gap-14 pb-20 lg:pb-24'>
-    <div className='bg-[#E8E6FE] w-[290px] lg:w-[320px]  h-[320px] rounded flex flex-col justify-center p-2 ps-3 gap-4 relative'>
+    <div className='bg-[#E8E6FE] w-[290px] lg:w-[320px]  lg:h-[320px] h-[380px] rounded flex flex-col justify-center p-2 ps-3 gap-4 relative'>
         <h5 className='font-bold '> Crafting Joyful Beginnings for Young Minds</h5>
         <p className='text-gray-900 font-[Rokkitt]'>Welcome to our world, where our passionate team becomes the architects of joy and enrichment for your child's early years. With profound knowledge in child development, we artfully foster creativity and curiosity. Your child's journey unfolds in an atmosphere dedicated to meaningful learning, shaping a vibrant foundation for the future.</p>
         <div>
@@ -18,7 +18,7 @@ function Modern() {
         </div>
         <img className='absolute object-cover opacity-30 ' src={bg} alt="" />
     </div>
-    <div className='bg-[#AFEBE3] relative w-[290px] lg:w-[320px] h-[320px] rounded flex flex-col justify-center p-2 ps-3 gap-6'>
+    <div className='bg-[#AFEBE3] relative w-[290px] lg:w-[320px] lg:h-[320px] h-[380px] rounded flex flex-col justify-center p-2 ps-3 gap-6'>
         <h5 className='font-bold '>Wonders Unveiled: Foundations for Brilliance Explored</h5>
         <p className='text-gray-900 font-[Rokkitt]'>
 
@@ -28,7 +28,7 @@ function Modern() {
         </div>
         <img className='absolute object-cover opacity-30 ' src={bg} alt="" />
     </div>
-    <div className='bg-[#FFDEE9] relative w-[290px] lg:w-[320px] h-[320px] rounded flex flex-col justify-center p-2 ps-3 gap-4'>
+    <div className='bg-[#FFDEE9] relative w-[290px] lg:w-[320px] lg:h-[320px] h-[380px] rounded flex flex-col justify-center p-2 ps-3 gap-4'>
         <h5 className='font-bold '>Playground to Boardroom: Tomorrow's Leaders Start Early!</h5>
         <p className='text-gray-900 font-[Rokkitt]'>
         Experience the transformative power of early education with our committed caregivers and educators. Rooted in support and inclusion, we blend joy, laughter, and purposeful learning to spark creativity, fuel curiosity, and sow the seeds of lifelong learning in every child.</p>
