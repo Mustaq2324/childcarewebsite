@@ -1,5 +1,5 @@
 import React, { useRef } from 'react'
-import jet from "../assets/jet-01.png"
+import jet from "../assets/Jet-01.png"
 import baby from "../assets/baby.jpg"
 import img from "../assets/1-about.jpg"
 function About() {
