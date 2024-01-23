@@ -1,6 +1,7 @@
 import React from "react";
 import img from "../assets/program-hero.png";
-import Age from "../Components/Age group/Age";
+import bg from "../assets/our-programbg.png";
+import Testimonial from "../Components/Testimonal";
 function OurProgram() {
   return (
     <div>
@@ -39,8 +40,9 @@ function OurProgram() {
       </div>
       {/* 1 */}
       <div className="bg-[#FFF4EA] flex  flex-col items-center gap-4 pt-8 pb-8">
-<h1 className='lg:text-4xl text-2xl   text-center  font-[Bitter]'>     What does Dublin Learning Academy Offer?</h1> 
-<p className=" text-base text-gray-600 text-justify mx-auto lg:w-[750px]">From infant care to school-age enrichment programs, Dublin Learning Academy champions every child, giving them the opportunity to reach their full potential. We provide a variety of daycare programs in Dublin, OH to meet the needs of local families from 7:00 a.m. until 6:00 p.m., Monday through Friday.</p>
+<h1 className='lg:text-4xl text-2xl   text-center  font-[Bitter] font-semibold'>     What does Little Hearts Learning Center Offer?</h1> 
+
+<p className=" text-base text-gray-600 text-center lg:text-justify mx-auto lg:w-[750px]">From infant care to school-age enrichment programs, Dublin Learning Academy champions every child, giving them the opportunity to reach their full potential. We provide a variety of daycare programs in Dublin, OH to meet the needs of local families from 7:00 a.m. until 6:00 p.m., Monday through Friday.</p>
 <div className="flex gap-6">
 <button className="bg-[#075E56] text-[#FFEEDA] font-medium py-2 px-4 rounded transition-all hover:bg-transparent hover:boder-[#075E56] border-[1px] border-[#075E56] hover:text-[#075E56] active:scale-95">
           Contact us
@@ -52,9 +54,23 @@ function OurProgram() {
 
 </div>
 </div>
+   {/* 2 */}
    
-  {/* 2 */}
-  <div className="bg-[#FFEEDA] pt-10 pb-20">
+   <div className="bg-no-repeat  bg-cover pt-10 pb-10 lg:pt-0 lg:pb-0 lg:h-[800px] bg-center relative" style={{backgroundImage: `url(${bg})`}}>
+      <h1 className='lg:text-4xl text-2xl pt-10 ps-4 font-[Bitter] font-semibold'>    
+Why Choose Little Hearts Learning center?</h1> 
+<p className="text-base text-gray-600  lg:text-justify ps-5 pt-5 lg:w-[750px]">The Little Hearts Learning staff includes early childhood professionals whose primary goal is to nurture and educate young children. Our teachers create a safe, stimulating environment to help each child acquire an appreciation for learning. If you are looking for a Dublin, Ohio daycare that leads the industry, look no further than Dublin Learning Academy. We use the most up-to-date research to build our curriculum, which empowers teachers to help kids follow their dreams—today and for years to come.</p>
+<div className="absolute top-[30%]  left-[20%] lg:flex gap-4 hidden ">
+<img src="https://img.freepik.com/free-photo/little-girl-playing-with-train-toy_23-2147663990.jpg?w=996&t=st=1706032169~exp=1706032769~hmac=f1fcf4b00237061a9c4a6a72961e2ca4e3e888b412b0631732848f6dd7020d4d" className="w-[300px] rounded-xl " alt="" />
+<img src="https://img.freepik.com/free-photo/child-with-their-mom-playing-brain-teaser_23-2149512016.jpg?w=996&t=st=1706032504~exp=1706033104~hmac=9d53c855c0a24a1b9de18687bd82159bcc7f3c3dde74c0ef30e6e73f0ce74f5f" className="w-[300px] rounded-xl " alt="" />
+</div>
+<div className="absolute top-[60%]  left-[40%] lg:flex gap-4 hidden ">
+<img src="https://img.freepik.com/premium-photo/young-children-enjoying-playroom_53876-87112.jpg?w=996" className="w-[300px] rounded-xl  " alt="" />
+<img src="https://img.freepik.com/free-photo/two-kids-playing-with-construction-blocks-sitting-table-kindergarten_839833-1748.jpg?w=996&t=st=1706032719~exp=1706033319~hmac=a199c63a3d298da059a745c78592093b8f7cabd007108623d4fe67eca9832cee" className="w-[300px] rounded-xl " alt="" />
+</div>
+</div>
+  {/* 3 */}
+  <div className="bg-gradient-to-b from-[#FFF5EB] to-[#FFEEDA] pt-10 pb-20">
       <h1 className='lg:text-4xl text-2xl font-semibold text-center pb-20 font-[Bitter]'> Our classrooms for babies to kindergarteners</h1>
  
   
@@ -120,8 +136,8 @@ function OurProgram() {
         </div>
       </div>
       </div>
-
-
+{/* 4 */}
+<Testimonial/>
     </div>
   );
 }
