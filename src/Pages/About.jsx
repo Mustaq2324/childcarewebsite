@@ -165,26 +165,29 @@ function About() {
     <p className="mb-32 mt-10 text-xl font-normal text-center text-black">
         Meat the best team in wolrd
     </p>
-    <div className="flex flex-col items-center space-y-24 md:space-y-0 md:flex-row md:justify-around justify evenly">
-        <div className="relative p-4">
-            <div className="absolute mb-4 text-center transform translate-x-1/2 -top-16 right-1/2">
+    <div className="flex flex-col  items-center space-y-24 md:space-y-0 md:flex-row md:justify-around justify evenly">
+        <div className="relative  p-4">
+            {/* <div className="absolute mb-4 text-center transform translate-x-1/2 -top-16 right-1/2">
                 <a href="#" className="relative block">
-                    <img alt="profil" src={img} className="mx-auto object-cover rounded-lg h-40 w-40  border-2 border-white dark:border-gray-800"/>
                 </a>
-            </div>
-            <div className="px-8 py-4 pt-24 bg-white rounded-lg shadow dark:bg-gray-800">
+            </div> */}
+            <div className="p-4 bg-[#FFF5EB]  shadow-inner shadow-black  rounded-xl  ">
+              <div>
+              <img alt="profil" src={img} className="mx-auto object-cover rounded-lg h-40 w-40   "/>
+
+              </div>
                 <div className="text-center">
-                    <p className="text-2xl text-gray-800 dark:text-white">
+                    <p className="text-2xl text-black">
                         Patrick Sebastien
                     </p>
-                    <p className="text-xl font-light text-gray-500 dark:text-gray-200">
+                    <p className="text-xl font-light text-gray-800 ">
                         Developpeur
                     </p>
-                    <p className="py-4 mx-auto font-light text-gray-500 text-md w-60 dark:text-gray-400">
+                    <p className="py-4 mx-auto font-light text-gray-900 text-md w-60">
                         Patrick Sébastien, born November 14, 1953 in Brive-la-Gaillarde, is an imitator.
                     </p>
                 </div>
-                <div className="flex items-center justify-between w-40 pt-8 mx-auto text-gray-500 border-t border-gray-200">
+                <div className="flex items-center justify-between w-40 pt-8 mx-auto text-black border-t border-gray-900">
                     
                 </div>
             </div>
@@ -192,7 +195,7 @@ function About() {
         <div className="relative p-4">
             <div className="absolute mb-4 text-center transform translate-x-1/2 -top-16 right-1/2">
                 <a href="#" className="relative block">
-                    <img alt="profil" src={img} className="mx-auto object-cover rounded-lg h-40 w-40  border-2 border-white dark:border-gray-800"/>
+                    <img alt="profil" src={img} className="mx-auto object-cover rounded-lg h-40 w-40   "/>
                 </a>
             </div>
             <div className="px-8 py-4 pt-24 bg-white rounded-lg shadow dark:bg-gray-800">
@@ -215,7 +218,7 @@ function About() {
         <div className="relative p-4">
             <div className="absolute mb-4 text-center transform translate-x-1/2 -top-16 right-1/2">
                 <a href="#" className="relative block">
-                    <img alt="profil" src={img} className="mx-auto object-cover rounded-lg h-40 w-40  border-2 border-white dark:border-gray-800"/>
+                    <img alt="profil" src={img} className="mx-auto object-cover rounded-lg h-40 w-40   "/>
                 </a>
             </div>
             <div className="px-8 py-4 pt-24 bg-white rounded-lg shadow dark:bg-gray-800">
