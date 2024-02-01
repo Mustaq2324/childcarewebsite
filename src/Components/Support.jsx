@@ -16,7 +16,7 @@ function Support() {
                     </div>
                     <div>
                         <h5 className='font-semibold'> State-of-the-Art Facilities</h5>
-                        <p className='text-[12px] text-gray-600'>Our modern facilities provide a safe and welcoming environment for children to explore and learn</p>
+                        <p className='text-[12px] text-gray-600'>Our Modern facilities provide a safe and welcoming environment for children to explore and learn.</p>
                     </div>
                 </div>
                 <div className='lg:w-[370px]  w-[300px]  rounded h-[100px] bg-[#FFE7C3] flex justify-evenly items-center gap-5'>
@@ -25,7 +25,7 @@ function Support() {
                     </div>
                     <div>
                         <h5 className='font-semibold'>Dedicated Staff</h5>
-                        <p className='text-[12px] text-gray-600 text-justify pe-1'>Our team is not only highly trained but also deeply passionate about what they do, ensuring a nurturing environment for your child's growth.</p>
+                        <p className='text-[12px] text-gray-600 text-justify pe-1'>Our Team is not only highly trained but also deeply passionate about what they do ensuring a nurturing environment for your child growth. </p>
                     </div>
                 </div>
                 <div className='lg:w-[370px]  w-[300px]  rounded h-[100px] bg-[#FFE296] flex justify-evenly items-center gap-5'>
@@ -34,7 +34,7 @@ function Support() {
                     </div>
                     <div>
                         <h5 className='font-semibold'> Parental Involvement</h5>
-                        <p className='text-[12px] text-gray-600'>We prioritize open communication with parents, creating a partnership to support your child's growth and development</p>
+                        <p className='text-[12px] text-gray-600'>We Prioritize open communication with parents creating a partnership to support your child growth and development.</p>
                     </div>
                 </div>
             </div>
@@ -45,7 +45,7 @@ function Support() {
                     </div>
                     <div>
                         <h5 className='font-semibold'> Tailored Programs</h5>
-                        <p className='text-[12px] text-gray-600'>We offer a range of programs tailored to different age groups, ensuring that each child's unique needs are met</p>
+                        <p className='text-[12px] text-gray-600'>We Offer a range of programs tailored to different age groups, ensuring that each child unique needs are met.</p>
                     </div>
                 </div>
                 <div className='lg:w-[370px]  w-[300px]  rounded h-[100px] bg-[#AFEBE3] flex justify-evenly items-center gap-5'>
@@ -54,7 +54,7 @@ function Support() {
                     </div>
                     <div>
                         <h5 className='font-semibold'> Open Communication</h5>
-                        <p className='text-[12px] text-gray-600'>We prioritize open communication with parents, creating a partnership to support your child's growth and development</p>
+                        <p className='text-[12px] text-gray-600'>We Prioritize open communication with parents, creating a partnership to support your child growth and development.</p>
                     </div>
                 </div>
                 <div className='lg:w-[370px]  w-[300px]  rounded h-[100px] bg-[#d1eaf0] flex justify-evenly items-center gap-5'>
@@ -63,7 +63,7 @@ function Support() {
                     </div>
                     <div>
                         <h5 className='font-semibold'>Safety and Cleanliness</h5>
-                        <p className='text-[12px] text-gray-600'>Safety and cleanliness are our top priorities, giving you peace of mind as your child spends their day with us.</p>
+                        <p className='text-[12px] text-gray-600'>Safety and Cleanliness are our top priorities giving you peace of mind as your child spends their day with us.</p>
                     </div>
                 </div>
 

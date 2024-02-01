@@ -61,8 +61,8 @@ const FAQSection = () => {
         //     a: "Our childcare center provides care and educational services for children across various age groups, from infants to pre-school and beyond."
         // },
         {
-            q: "What is Little Hearts Academy?",
-            a: "Little Hearts Academy is a place where kids come to learn and play."
+            q: "What is the mission of Little Hearts Academy?",
+            a: "Our mission is to provide a nurturing environment for young minds, fostering growth, learning, and joy."
         },
         // {
         //     q: "What are the operating hours of the childcare center?",

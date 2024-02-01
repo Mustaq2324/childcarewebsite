@@ -11,8 +11,8 @@ const ShuffleHero = () => {
         <h3 className="text-4xl  md:text-6xl font-semibold font-[Bitter]">
         Big Dreams Today
         </h3>
-        <p className="text-base md:text-lg text-slate-700 my-4 md:my-6 font-[Rokkitt]">
-        Strength for the Journey Begins
+        <p className="text-base md:text-lg w-[450px] text-slate-700 my-4 md:my-6 font-[Rokkitt]">
+        Discover a revolutionary approach to childcare tackle common pain points head-on. Unlock a brighter future for your little ones with our proven solutions.
         </p>
         <button className="bg-[#075E56] text-[#FFEEDA] font-medium py-2 px-4 rounded transition-all hover:bg-transparent hover:boder-[#075E56] border-[1px] border-[#075E56] hover:text-[#075E56] active:scale-95">
           Find a Center
@@ -48,7 +48,8 @@ const squareData = [
   },
   {
     id: 2,
-    src: "https://plus.unsplash.com/premium_photo-1661353249236-be3f19d759bf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    src: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODJ8fGNoaWxkY2FyZXxlbnwwfHwwfHx8MA%3D%3D    ",
+
   },
   {
     id: 3,
@@ -56,8 +57,7 @@ const squareData = [
   },
   {
     id: 4,
-    src: "https://media.istockphoto.com/id/1461629187/photo/kindergarten-teacher-with-children-sitting-on-the-floor-having-music-class-using-various.jpg?s=2048x2048&w=is&k=20&c=4CinU-pG5CoLfrvD97NAAoM7aNIUVYa-Njthu9Zi42A=",
-  },
+    src: "https://images.unsplash.com/photo-1564429238817-393bd4286b2d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Nnw4MTkxMDM5OXx8ZW58MHx8fHx8  "},
   {
     id: 5,
     src: "https://images.pexels.com/photos/1001914/pexels-photo-1001914.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -68,7 +68,7 @@ const squareData = [
 //   },
 //   {
 //     id: 7,
-//     src: "https://images.unsplash.com/photo-1599586120429-48281b6f0ece?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+    // src: "https://images.unsplash.com/photo-1599586120429-48281b6f0ece?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
 //   },
 //   {
 //     id: 8,
