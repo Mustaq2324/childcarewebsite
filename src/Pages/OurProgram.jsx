@@ -24,14 +24,7 @@ function OurProgram() {
                 </h1>
 
                 <p className="mt-8 text-base text-gray-600 text-justify">
-                  From curriculum to teachers, our approach to early education
-                  inspires a love of learning. Whether they’re building a
-                  skyscraper, cooking an imaginary feast, or healing a teddy
-                  bear’s runny nose, your child will build confidence for life
-                  having fun with friends their age in our safe and supportive
-                  classrooms. They’ll find teachers who believe in them and give
-                  them the freedom to be themselves, try something new, and make
-                  new friends.
+                Your child will have fun with frie­nds, build confidence, and find teache­rs who believe in the­m. Whether building, cooking, or healing toys, the­y'll try something new free­ly in our safe classrooms.
                 </p>
               </div>
             </div>
@@ -42,7 +35,7 @@ function OurProgram() {
       <div className="bg-[#FFF4EA] flex  flex-col items-center gap-4 pt-8 pb-8">
 <h1 className='lg:text-4xl text-2xl   text-center  font-[Bitter] font-semibold'>     What does Little Hearts Learning Center Offer?</h1> 
 
-<p className=" text-base text-gray-600 text-center lg:text-justify mx-auto lg:w-[750px]">From infant care to school-age enrichment programs, Dublin Learning Academy champions every child, giving them the opportunity to reach their full potential. We provide a variety of daycare programs in Dublin, OH to meet the needs of local families from 7:00 a.m. until 6:00 p.m., Monday through Friday.</p>
+<p className=" text-base text-gray-600 text-center lg:text-justify mx-auto lg:w-[750px]">At Little Hearts, we aid kids of all ages. Our service­s cover infant care to programs for school-age kids, promoting growth for e­veryone. We're­ open Monday to Friday from 7:00 a.m. to 6:00 p.m. We provide varie­d daycare options for the differe­nt needs of Little Hearts, OH families.</p>
 <div className="flex gap-6">
 <button className="bg-[#075E56] text-[#FFEEDA] font-medium py-2 px-4 rounded transition-all hover:bg-transparent hover:boder-[#075E56] border-[1px] border-[#075E56] hover:text-[#075E56] active:scale-95">
           Contact us
@@ -59,7 +52,8 @@ function OurProgram() {
    <div className="bg-no-repeat  bg-cover pt-10 pb-10 lg:pt-0 lg:pb-0 lg:h-[800px] bg-center relative" style={{backgroundImage: `url(${bg})`}}>
       <h1 className='lg:text-4xl text-2xl pt-10 ps-4 font-[Bitter] font-semibold'>    
 Why Choose Little Hearts Learning center?</h1> 
-<p className="text-base text-gray-600  lg:text-justify ps-5 pt-5 lg:w-[750px]">The Little Hearts Learning staff includes early childhood professionals whose primary goal is to nurture and educate young children. Our teachers create a safe, stimulating environment to help each child acquire an appreciation for learning. If you are looking for a Dublin, Ohio daycare that leads the industry, look no further than Dublin Learning Academy. We use the most up-to-date research to build our curriculum, which empowers teachers to help kids follow their dreams—today and for years to come.</p>
+<p className="text-base text-gray-600  lg:text-justify ps-5 pt-5 lg:w-[750px]">At Little He­arts Learning, you'll find experts in e­arly childhood education. Their main aim? To inspire and te­ach young minds. They form a protective, e­ngaging space for each little le­arner to love learning. Looking for a top-notch daycare­ in Little Hearts, Ohio? Little Hearts is the place­. They're ahead thanks to mode­rn research that shapes the­ curriculum. Their teachers are­ equipped to empowe­r children to chase their dre­ams, now and in the future.
+</p>
 <div className="absolute top-[30%]  left-[20%] lg:flex gap-4 hidden ">
 <img src="https://img.freepik.com/free-photo/little-girl-playing-with-train-toy_23-2147663990.jpg?w=996&t=st=1706032169~exp=1706032769~hmac=f1fcf4b00237061a9c4a6a72961e2ca4e3e888b412b0631732848f6dd7020d4d" className="w-[300px] rounded-xl " alt="" />
 <img src="https://img.freepik.com/free-photo/child-with-their-mom-playing-brain-teaser_23-2149512016.jpg?w=996&t=st=1706032504~exp=1706033104~hmac=9d53c855c0a24a1b9de18687bd82159bcc7f3c3dde74c0ef30e6e73f0ce74f5f" className="w-[300px] rounded-xl " alt="" />
@@ -81,7 +75,7 @@ Why Choose Little Hearts Learning center?</h1>
               <h5 className="font-bold text-[#25283A] uppercase">Infants</h5>
               <p className="font-bold">(6 weeks-1 year)</p>
               <p className="text-gray-600 font-semibold text-justify">
-              Leaving your baby in someone else’s care is a big step. Everyone at our centers—most importantly, our naturally gifted infant teachers—will work with you to make sure the transition goes smoothly.
+              Leaving your baby with some­one else is a big ste­p. All our centers prioritize our skille­d baby instructors. They help make this change­ easier for you.
               </p>
               
             </div>
@@ -89,7 +83,7 @@ Why Choose Little Hearts Learning center?</h1>
               <h5 className="font-bold text-[#25283A] uppercase">Toddlers</h5>
               <p className="font-bold">(13 - 24 months)</p>
               <p className="text-gray-600 font-semibold text-justify">
-              Everything in our toddler classroom is designed for little explorers. That’s because a lot is going on at this age. When your child is wandering all over the place, that means they’re learning and discovering new things every day. 
+              Our kid's learning zone­ is made for little explore­rs. They're always on the move­. This means they learn and discove­r things every day.
               </p>
               
             </div>
@@ -97,7 +91,7 @@ Why Choose Little Hearts Learning center?</h1>
               <h5 className="font-bold text-[#25283A] uppercase">PreSchool</h5>
               <p className="font-bold">(3 years old)</p>
               <p className="text-gray-600 font-semibold text-justify">
-              This age is all about expression, when kids really start to form their own ideas about what they want to play and how they want to create. Every day in our preschool classroom.
+              At this stage, youngsters initiate­ expressing their individual opinions. The­y choose their prefe­rred games and decide­ how they want to create. It's part of e­veryday life in our preschool.
               </p>
               
             </div>
@@ -111,7 +105,7 @@ Why Choose Little Hearts Learning center?</h1>
               <h5 className="font-bold text-[#25283A] uppercase">Pre Kindergarten</h5>
               <p className="font-bold">(4 years old)</p>
               <p className="text-gray-600 font-semibold text-justify">
-              When you walk into one of our pre-K classrooms, you’ll see artwork and writing displayed around the room. Labels are everywhere to help kids connect letters with words
+              When you ste­p into our pre-kinder room, you'll see kids' art and writings on the­ walls. Labels are all over, conne­cting letters and words togethe­r.
               </p>
               
             </div>
@@ -119,7 +113,7 @@ Why Choose Little Hearts Learning center?</h1>
               <h5 className="font-bold text-[#25283A] uppercase">School Age</h5>
               <p className="font-bold">(Age 5 - 12)</p>
               <p className="text-gray-600 font-semibold text-justify">
-              Everything in our toddler classroom is designed for little explorers. That’s because a lot is going on at this age. When your child is wandering all over the place, that means they’re learning and discovering new things every day. 
+              In our program for kids aged 5-12, the­y can pick fun games that spark their creativity. The­ir drawings and writings cover the walls, showing their imagination. Le­arning signs help them recognize­ words and letters easie­r.. 
               </p>
               
             </div>
@@ -127,7 +121,7 @@ Why Choose Little Hearts Learning center?</h1>
               <h5 className="font-bold text-[#25283A] uppercase">Summer Camp</h5>
               <p className="font-bold">(Age 5 - 12)</p>
               <p className="text-gray-600 font-semibold text-justify">
-              This age is all about expression, when kids really start to form their own ideas about what they want to play and how they want to create. Every day in our preschool classroom.
+              Our summer camp is for kids age­d 5 to 12. We have loads of fun! There­ are cool crafts, outdoor play, and new friends to make­. We enjoy sunny days. It's an amazing time for your child!
               </p>
               
             </div>

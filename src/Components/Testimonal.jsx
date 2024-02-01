@@ -5,7 +5,7 @@ import { faStar } from '@fortawesome/free-solid-svg-icons';
 const Testimonial = () => {
   const testimonials = [
     {
-      content: "You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change.",
+      content: "Little Hearts Learning Center is fantastic! Amazing staff, fun activities, nurturing environment. Highly recommend!",
       author: "Leslie Alexander",
       role: "Freelance React Developer",
       avatar: "https://cdn.rareblocks.xyz/collection/clarity/images/testimonial/4/avatar-male-1.png"
@@ -49,7 +49,7 @@ const Testimonial = () => {
       <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div className="flex flex-col items-center">
           <div className="text-center">
-            <p className="text-lg font-medium text-gray-600 ">2,157 people have said how good Little Hearts Learning center</p>
+            <p className="text-lg font-medium text-gray-600 ">2,157+ people have said how good Little Hearts Learning center</p>
             <h2 className="mt-4 text-3xl font-bold text-gray-900 sm:text-4xl xl:text-5xl font-montserrat ">Our happy clients say about us</h2>
           </div>
 

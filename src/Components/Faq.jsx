@@ -61,16 +61,16 @@ const FAQSection = () => {
         //     a: "Our childcare center provides care and educational services for children across various age groups, from infants to pre-school and beyond."
         // },
         {
-            q: "What is the mission of Little Hearts Academy?",
-            a: "Our mission is to provide a nurturing environment for young minds, fostering growth, learning, and joy."
+            q: "How can I enroll my child at Little Hearts Childcare?",
+            a: "To enroll, visit our website or call our enrollment office."
         },
         // {
         //     q: "What are the operating hours of the childcare center?",
         //     a: "We understand the diverse needs of parents, and our center offers flexible operating hours to accommodate various schedules, including early morning drop-offs and late pickups."
         // },
         {
-            q: "How old should my child be to join?",
-            a: "Children aged 6 weeks to 12 years are welcome at Little Hearts Academy."
+            q: "What age groups does LittleHearts look after?",
+            a: "We welcome children aged 6 weeks to 12 years into our care."
         },
         // {
         //     q: "How are the caregivers and teachers qualified and trained?",
@@ -104,8 +104,8 @@ const FAQSection = () => {
         //     a: "Yes, we offer trial periods for new families to allow you and your child to experience our childcare environment. It's a great way to ensure that our center is the right fit for your family."
         // },
         {
-            q: "Are there any additional fees for special events or field trips?",
-            a: "Yes, we offer trial periods for new families to allow you and your child to experience our childcare environment. It's a great way to ensure that our center is the right fit for your family."
+            q: "Are there opportunities for children to express creativity?",
+            a: "Yes, we provide various activities and materials to encourage creative expression."
         },
         {
             q: "Can parents volunteer in the classroom?",

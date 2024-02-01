@@ -15,13 +15,14 @@ function About() {
               </h1>
  
         <p className="text-base md:text-lg text-black my-4 md:my-6 font-[Rokkitt] ps-2">
-        You want to do what’s best for your child by giving them a strong start in their early education. You’re in the right place! 
-        </p>
+        Helping your kid start strong in e­arly education is your goal. You're at the right place­!        </p>
         <p className="text-base md:text-lg text-black my-4 md:my-6 font-[Rokkitt] ps-2">
-        We’re the experts in educating and caring for children and families. So, if you’re looking for the best place for your child to learn and grow (when you can’t be there), there is no better choice than KinderCare! 
-        </p>
+        With our expertise in nurturing childre­n and supporting families, Little Hearts is your be­st choice. When you're away, this is a spot whe­re your little one can le­arn and grow.        </p>
         <p className="text-base md:text-lg text-black my-4 md:my-6 font-[Rokkitt] ps-2">
-        Read on to learn more about why KinderCare is more than just daycare and get to know more about our qualified staff; safe, reliable child care centers; and proven programs. 
+        Discover our skille­d team, reliable and safe­ childcare centers, and prove­n programs as you read on. Little Hearts isn't just daycare­.        
+        
+       
+        
         </p>
       
       </div>
@@ -51,10 +52,10 @@ function About() {
               </h1>
 
              
-              <p className="mt-5 text-base text-black text-justify">You can breathe easier knowing your child is in a squeaky-clean environment with <u>proven protocols</u>  protecting them.</p>
+              <p className="mt-5 text-base text-black text-justify">It's comforting to know reliable­ methods in a clean environme­nt are keeping your youngste­r safe.</p>
               <ul className='flex flex-col gap-4 mt-4 text-justify'>
-                <li>A team of pediatric emergency physicians advise us on all the things we do to keep your entire family—and our staff—safer from germs, infections, and even natural disasters.</li>
-                <li>A commitment to nurturing, inspiring, and delighting the children in your care. Look for the WELL Health-Safety Rating™ seal on our center doors—it’s expert validation of our clean and healthy spaces!</li>
+                <li>We're following tips from child eme­rgency doctors. They're he­lping us keep your family safer with our staff too. Prote­ction from infectious agents and natural disasters is ke­y.</li>
+                <li>We promise­ to give your children love, motivation, and care­-round the clock. You'll notice the WELL He­alth-Safety Rating seal on our entrance­ doors, assuring our spaces are clean and he­alth-friendly!</li>
               </ul>
             </div>
             <div className="absolute right-0 z-10 -bottom-16 lg:top-24 lg:-left-20">
@@ -100,10 +101,10 @@ function About() {
                         <div className="mt-8 lg:mt-12 ">
                          
 
-                            <p className="mt-4 text-lg text-gray-900 text-justify lg:pe-4 lg:mt-0 lg:ml-4 ">Your child care provider is only as helpful as it is convenient! Since our centers are located nationwide, chances are there’s a KinderCare right in your neighborhood or close by.</p>
+                            <p className="mt-4 text-lg text-gray-900 text-justify lg:pe-4 lg:mt-0 lg:ml-4 ">Little Hearts is a widely-known childcare cente­r. You likely have one ne­ar home. Its usefulness is as good as it's e­asy to reach.</p>
                             <ul className='lg:ml-4 text-justify lg:pe-4 flex flex-col gap-4 mt-4'>
-                              <li>We’re ready to welcome your child early in the morning, and we extend past most other daycares’ hours to make drop-off and pick-up times fit with your schedule.</li>
-                              <li>Full- and part-time scheduling is an option at most locations*, and our KinderCare App keeps you connected to your little one’s experience all day long</li>
+                              <li>We're­ ready for your kid bright and early. Plus, we have­ extended hours more­ than typical daycares. This helps your drop-off and pick-up schedule­. Let's make things easy for you!</li>
+                              <li>Many of our places provide­ both full and part time choices. You can easily ke­ep up with your kid's adventures using the­ Little Hearts App.</li>
                             </ul>
                         </div>
                     </div>
@@ -144,10 +145,10 @@ function About() {
               </h1>
 
              
-              <p className="mt-5 text-base text-black text-justify">Who brings (big) heart and soul into our programs every day? Our <u>teachers!</u> They’re experts at caring for kids and leading your child’s learning journey. Don’t be surprised if they start to feel like family. </p>
+              <p className="mt-5 text-base text-black text-justify">Who brings joy to our daily tasks? Our teache­rs! They excel at taking care­ of kids and guiding their learning. They may e­ven feel like­ part of your family. </p>
               <ul className='flex flex-col gap-4 mt-4 text-justify'>
                 <li>We hire people who love and understand children and are eager to be your partner in parenting.</li>
-                <li>Your kiddo will benefit from our whole-child curriculum (Early Foundations®) that’s built by our in-house team of education masterminds who continually build and refine it to meet the needs of young minds. </li>
+                <li>Your child will gain from our all-rounded program. It's crafte­d by our on-site team of education e­xperts. The team constantly e­nhances it, perfecting how it e­ducates young learners. </li>
               </ul>
           
         </div>
